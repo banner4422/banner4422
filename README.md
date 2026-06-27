@@ -13,7 +13,7 @@ In my spare time I work on
   - Made in Rust btw 🦀
 - I'm getting started with running 🏃‍♂️💨
 
-Passionate about a whole lot of things, such as music, products, design in all forms and mediums, and foods n beverages.
+Passionate and obsessed about a whole lot of things, such as music, products, design in all forms and mediums, and foods n beverages.
 
 Read more on my [personal website](https://chrkn.dk/).
 
