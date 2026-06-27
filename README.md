@@ -15,7 +15,7 @@ Currently in my spare time I work on
 
 Passionate about a whole lot of things, such as music, products, design in all forms and mediums, and foods n beverages.
 
-Read more about me on my [personal website](https://chrkn.dk/).
+Read more on my [personal website](https://chrkn.dk/).
 
 <!--
 **banner4422/banner4422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
