@@ -2,7 +2,7 @@ Jack of all trades creative turned -> Business Student turned -> <ins>Software E
 
 I work at [Copenhagen Optimization](https://copenhagenoptimization.com/) ✈️
 
-In my spare time I work on
+In my spare time I'm work on
 - [Bento Bot](https://bentobot.xyz/) 🍱
 - An overengineered coffee library application ☕️
   - Early WIP, kinda dogfooding it at the moment before a public release
