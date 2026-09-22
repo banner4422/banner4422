@@ -1,4 +1,4 @@
-Jack of all trades creative turned -> Business Student turned -> <ins>Software Engineer</ins> 😁🤓
+Jack of all trades creative turned -> Business Student turned -> Software Engineer
 
 I work at [Copenhagen Optimization](https://copenhagenoptimization.com/) ✈️
 
