@@ -1,5 +1,7 @@
 Jack of all trades creative turned -> Business Student turned -> Software Engineer
 
+Currently getting into DevOps, Platform Engineering, and AI Engineering.
+
 I work at [Copenhagen Optimization](https://copenhagenoptimization.com/) ✈️
 
 In my spare time I'm working on
@@ -7,10 +9,8 @@ In my spare time I'm working on
 - An overengineered coffee library application ☕️
   - Early WIP, kinda dogfooding it at the moment before a public release
   - Mostly an web app (both web and desktop), but it will include MCP and e.g. a Discord Bot for interactivity.
-  - I have an idea about abstracting it to other stuff like e.g. wine, books, just stuff people are passionate about and want to retain somewhere
+  - I have an idea about abstracting it to other stuff like e.g. wine, books, just stuff people are passionate about and want to retain somewhere without buying a subscription
 - A light/dark mode theme switcher as well as nightlight for [Omarchy](https://omarchy.org/)
-  - WIP, kinda dogfooding it at the moment before a public release
-  - Made in Rust btw 🦀
 - I'm getting started with running 🏃‍♂️💨
 
 Passionate and obsessed about a whole lot of things, such as music, products, design in all forms and mediums, and foods n beverages.
